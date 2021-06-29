@@ -10,10 +10,10 @@ class DataBaseConfig
     public function __construct()
     {
 
-        $this->servername = 'localhost';
-        $this->username = 'root';
-        $this->password = '';
-        $this->databasename = 'test';
+        $this->servername = 'sql6.freemysqlhosting.net';
+        $this->username = 'sql6422029';
+        $this->password = 'u9pzZ2zpa6';
+        $this->databasename = 'sql6422029';
 
     }
 }
